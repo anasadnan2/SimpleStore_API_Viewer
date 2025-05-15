@@ -11,11 +11,6 @@ A simple and clean product grid that dynamically fetches products from [FakeStor
 
 ![Store Screenshot](screenshot.png)
 
----
-
-## 🚀 Live Demo
-👉 [View Live Project](#)  
-*(Replace # with your GitHub Pages link after deployment)*
 
 ---
 
